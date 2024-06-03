@@ -6,8 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my homepage!I am a third year undergraduate student from[College of Environmental Science and Engineering](https://env.nankai.edu.cn/),[Nankai University](https://www.nankai.edu.cn/).My major is environmental engineering. My research interest includes atmospheric environment, vehicle emission, machine learning in environmental research, and environmental modelling.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am very fortunate to be advised by [A.P. Jin Taosheng](https://env.nankai.edu.cn/2019/0612/c14181a178132/pagem.htm) of [The State Environment Protection Key Laboratory Of Urban Particulate Air Pollution Prevention](https://env.nankai.edu.cn/air/main.htm). I served as a RA for [Prof.Han Gang](https://env.nankai.edu.cn/2021/0831/c23807a389108/pagem.htm)'s Organic Chemistry course.
+
+You can find my CV here:[Liu Ziluo's Curriculum Vitae]()
+
+[Email1](2110924@mail.nankai.edu.cn)
+[Email2](461613927@qq.com)
+[Wechat]()
 
 A data-driven personal website
 ======
