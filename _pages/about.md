@@ -10,11 +10,12 @@ Welcome to my homepage!I am a third year undergraduate student from[College of E
 
 I am very fortunate to be advised by [A.P. Jin Taosheng](https://env.nankai.edu.cn/2019/0612/c14181a178132/pagem.htm) of [The State Environment Protection Key Laboratory Of Urban Particulate Air Pollution Prevention](https://env.nankai.edu.cn/air/main.htm). I served as a RA for [Prof.Han Gang](https://env.nankai.edu.cn/2021/0831/c23807a389108/pagem.htm)'s Organic Chemistry course.
 
-You can find my CV here:[Liu Ziluo's Curriculum Vitae]()
+You can find my CV here:[Liu Ziluo's Curriculum Vitae](assets/CV_Chinese_刘.pdf)
+For the English version, please click here:[Liu Ziluo's Curriculum Vitae(English)](assets/CV_English_version.pdf)
 
 [Email1](2110924@mail.nankai.edu.cn)
 [Email2](461613927@qq.com)
-[Wechat]()
+[Wechat](Wechat.jpg)
 
 A data-driven personal website
 ======
